@@ -1,4 +1,4 @@
-# Hi, I'm Hassan 👋
+# Hi, I'm Charaf 👋
 
 **Python automation developer.** I build trading bots, AI content pipelines and tools that run on their own, then I test them hard before they touch real money or real customers.
 
